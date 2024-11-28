@@ -1,8 +1,9 @@
 ---
 name: Innmelding av enkle endringer på Baksia
-about: Hensikten er at det skal være enkelt å melde inn endringer til teamet
+about: Brukes dersom du har enkle endringer som du ønsker å få gjort på Baksia (tekst,
+  nye team-medlemmer ol)
 title: ''
-labels: Baksia, Bistand
+labels: Baksia, Forvaltning
 assignees: ''
 
 ---

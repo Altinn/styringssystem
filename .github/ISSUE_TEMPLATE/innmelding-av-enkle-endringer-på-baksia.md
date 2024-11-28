@@ -10,7 +10,7 @@ assignees: ''
 ### Beskrivelse
 Gi en beskrivelse av hva du vil ha endret
 
-- [ ] Legg inn disse punktene
+- [ ] legg inn punkter her
 
 ## Kilde
 

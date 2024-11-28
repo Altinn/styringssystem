@@ -2,7 +2,7 @@
 name: Innmelding av enkle endringer på Baksia
 about: Hensikten er at det skal være enkelt å melde inn endringer til teamet
 title: ''
-labels: Baksia, Endringsønske, Forvaltning
+labels: Baksia, Bistand
 assignees: ''
 
 ---

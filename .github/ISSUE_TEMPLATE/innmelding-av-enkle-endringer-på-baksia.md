@@ -7,7 +7,9 @@ assignees: ''
 
 ---
 
-### Beskrivelse
+For at vi skal kunne behandle en sak i teamet er vi avhengig av at du legger inn en del informasjon i denne issuen:
+
+- [ ] ### Beskrivelse
 Gi en beskrivelse av hva du vil ha endret
 
 - [ ] legg inn punkter her

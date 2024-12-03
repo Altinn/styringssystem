@@ -7,20 +7,29 @@ assignees: ''
 
 ---
 
-For at vi skal kunne behandle denne saken er vi avhengig av at du legger inn en del informasjon i denne issuen:
+For å kunne utføre endringer (gjelder ikke utviklingsendringer) på Baksia må vi ha litt informasjon fra deg:
 
-- [ ] ### Beskrivelse
-Gi en beskrivelse av hva du vil ha endret
+### Hvem ønsker endringen
+- Navn på kontaktperson
+- Team
+_______________________________________________________________________________________________________________
 
-- [ ] legg inn punkter her
+### Hva du vil endre
+- [ ] Ingress
+- [ ] Ny/fjerne personer knyttet til team
+- [ ] Ansvarsområder
+- [ ] evt hvilken tekst som skal endres 
+_______________________________________________________________________________________________________________
 
-## Kilde
+### Beskrivelse
+- Gi en beskrivelse av hva du vil ha endret
+_______________________________________________________________________________________________________________
 
-## Kontaktperson
-Oppgi navn på hvem vi kan kontakte
+### Dato for når endringen ønskes utført
+- Legg inn dato
+_______________________________________________________________________________________________________________
 
-## Hvilke team/person kommer saken fra
+### Hva må vedlegges (legges inn som tekst eller fil i issuen)
 
-## Ønske out-put på endringen
-
-## Ønsket dato for utførsel av endringen
+- Informasjon med hva Baksia skal oppdateres med 
+_______________________________________________________________________________________________________________

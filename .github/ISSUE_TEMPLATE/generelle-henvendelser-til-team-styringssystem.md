@@ -30,3 +30,13 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________
 
 ## Ønsket dato for utførsel av endringen
+
+name: Bug Report
+description: Opprett en bug-rapport.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Takk for at du rapporterer en bug!

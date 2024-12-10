@@ -2,7 +2,7 @@
 name: Generelle henvendelser til team Styringssystem
 about: Meld inn saker du mener team Styringssystem skal behandle
 title: ''
-labels: Baksia, Forvaltning
+labels: Baksia, Forvaltning, Årshjul Baksia
 assignees: ''
 
 ---

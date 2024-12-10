@@ -1,5 +1,5 @@
 ---
-name: Utsending av mail for gjennomgang av teamsidene på Baksia
+name: 'Årshjul Baksia: Utsending av mail for gjennomgang av teamsidene på Baksia'
 about: Brukes når vi skal sende mail til de som er ansvarlig for å oppdatere innhold
   for sitt team på Baksia
 title: ''

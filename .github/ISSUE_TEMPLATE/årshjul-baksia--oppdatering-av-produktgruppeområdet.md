@@ -1,5 +1,5 @@
 ---
-name: 'Årshjul Baksia: Gjennomgang av produktgruppeområdet'
+name: 'Årshjul Baksia: Oppdatering av produktgruppeområdet'
 about: Foreta en sjekk av området til produktgruppene på Baksia
 title: ''
 labels: Årshjul Baksia

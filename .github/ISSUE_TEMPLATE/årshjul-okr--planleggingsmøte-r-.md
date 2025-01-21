@@ -1,5 +1,5 @@
 ---
-name: 'Årshjul OKR: Planleggingsmøte'
+name: 'Årshjul OKR: Planleggingsmøte(r)'
 about: Describe this issue template's purpose here.
 title: ''
 labels: Årshjul OKR

@@ -7,6 +7,7 @@ assignees: ''
 
 ---
 
+- [ ] Avklare dato(er) for møte(ne)
 - [ ] sende innkalling til planleggingsmøte
 - [ ] Legg inn følgende agenda i møteinnkallingen:
 - innledning

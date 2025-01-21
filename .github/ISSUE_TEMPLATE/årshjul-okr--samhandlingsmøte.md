@@ -8,7 +8,7 @@ assignees: arild-65
 ---
 
 - [ ] Avklare dato(er) for møte(ne) - skal avholdes innen 14 dager etter Planleggingsmøtet
-- [ ] Send ut inn til Samhandlingsmøte
+- [ ] Send ut innkalling til Samhandlingsmøte
 - [ ] legg inn følgende agenda i innkallingen
 - Innledning
 - Dialog om avhengigheter med andre team

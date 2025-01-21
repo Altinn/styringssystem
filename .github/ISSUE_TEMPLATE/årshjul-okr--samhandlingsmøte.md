@@ -3,7 +3,7 @@ name: 'Årshjul OKR: Samhandlingsmøte'
 about: Describe this issue template's purpose here.
 title: ''
 labels: Årshjul OKR
-assignees: ''
+assignees: arild-65
 
 ---
 

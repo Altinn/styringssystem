@@ -1,7 +1,7 @@
 ---
 name: 'Årshjul Baksia: Lenkesjekk'
 about: Foreta en lenkesjekk på Baksia
-title: ''
+title: 'Årshjul Baksia: Lenkesjekk'
 labels: Årshjul Baksia
 assignees: ''
 

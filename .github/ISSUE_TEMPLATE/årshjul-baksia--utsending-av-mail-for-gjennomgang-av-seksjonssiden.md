@@ -2,7 +2,7 @@
 name: 'Årshjul Baksia: Utsending av mail for gjennomgang av seksjonssiden'
 about: Brukes når vi skal sende mail til de som er ansvarlig for å oppdatere innhold
   for sin seksjon på Baksia
-title: ''
+title: 'Årshjul Baksia: Utsending av mail for gjennomgang av seksjonssiden'
 labels: Årshjul Baksia
 assignees: ''
 

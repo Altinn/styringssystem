@@ -1,7 +1,7 @@
 ---
 name: 'Årshjul Baksia: Oppdatering av ansvarsmatrise'
 about: Gjennomgå og oppdater ansvarsmatrisen
-title: ''
+title: 'Årshjul Baksia: Oppdatering av ansvarsmatrise'
 labels: Årshjul Baksia
 assignees: ''
 

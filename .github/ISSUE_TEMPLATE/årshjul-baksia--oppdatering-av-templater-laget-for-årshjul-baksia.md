@@ -1,7 +1,7 @@
 ---
 name: 'Årshjul Baksia: Oppdatering av templater laget for årshjul Baksia'
 about: Gjennomgå malene
-title: ''
+title: 'Årshjul Baksia: Oppdatering av templater laget for årshjul Baksia'
 labels: Årshjul Baksia
 assignees: ''
 

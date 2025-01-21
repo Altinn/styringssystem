@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-- [ ] Avklare dato(er) for møte(ne)
+- [ ] Avklare dato(er) for møte(ne) - møtene skal avholdes 1. uke i tertialet
 - [ ] Send ut innkalling til planleggingsmøte
 - [ ] Legg inn følgende agenda i møteinnkallingen:
 - innledning

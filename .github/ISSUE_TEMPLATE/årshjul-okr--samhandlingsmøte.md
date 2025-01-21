@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-- [ ] Avklare dato(er) for møte(ne)
+- [ ] Avklare dato(er) for møte(ne) - skal avholdes innen 14 dager etter Planleggingsmøtet
 - [ ] Send ut inn til Samhandlingsmøte
 - [ ] legg inn følgende agenda i innkallingen
 - Innledning

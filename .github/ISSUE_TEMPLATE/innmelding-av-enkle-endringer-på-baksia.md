@@ -12,24 +12,16 @@ For å kunne utføre endringer (gjelder ikke utviklingsendringer) på Baksia må
 ### Hvem ønsker endringen
 - Navn på kontaktperson
 - Team
-_______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
 
 ### Hva du vil endre
 - [ ] Ingress
 - [ ] Ny/fjerne personer knyttet til team
 - [ ] Ansvarsområder
+- [ ] Lenker (til feks roadmap)
 - [ ] evt hvilken tekst som skal endres 
-_______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
 
 ### Beskrivelse
-- Gi en beskrivelse av hva du vil ha endret
-_______________________________________________________________________________________________________________
-
-### Dato for når endringen ønskes utført
-- Legg inn dato
-_______________________________________________________________________________________________________________
-
-### Hva må vedlegges (legges inn som tekst eller fil i issuen)
-
-- Informasjon med hva Baksia skal oppdateres med 
-_______________________________________________________________________________________________________________
+- Gi en beskrivelse av hva du vil ha endret (legg inn tekst her eller som filvedlegg i issuen) 
+______________________________________________________________________________________________________________

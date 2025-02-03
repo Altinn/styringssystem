@@ -2,8 +2,8 @@
 name: Generelle henvendelser til team Styringssystem
 about: Meld inn saker du mener team Styringssystem skal behandle
 title: Generelle henvendelser til team Styringssystem
-labels: Baksia, Forvaltning, Årshjul Baksia, Årshjul OKR
-assignees: arild-65
+labels: ''
+assignees: ''
 
 ---
 

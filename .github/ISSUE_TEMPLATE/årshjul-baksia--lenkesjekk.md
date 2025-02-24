@@ -9,29 +9,7 @@ assignees: ''
 
 Ønsker at det blir foretatt en sjekk av lenker på Baksia
 
-### Forsiden:
-- [ ] Produkter: sjekk at lenke Samarbeidsportalen
-- [ ] Organisasjonskart: sjekk at det lenkes til riktig org.kart på Intranett
-- [ ] Sjekk lenke til Digdirs strategi (at det er gjeldende versjon det lenkes til)
-- [ ] Generell sjekk på at sidelenkene fungere og peker til riktig sted
-- [ ] Footer: sjekk at lenkene er fungerer og peker til riktig sted
+- [ ] Utarbeide evt rutine for lenkesjekk
 
-### Produktutviklingsmodell:
-- [ ] Sjekk at lenke til støtteordninger under "Flyt", "Porteføljesaker", "Produktgruppersaker" og "Teamsaker" fungere og peker til riktig sted
-- [ ] Sjekk at lenke til Rodmap under "Flyt", "Porteføljesaker", "Produktgruppersaker" og "Teamsaker" fungere og peker til riktig sted
-- [ ] Sjekk at lenke til rollebeskrivelsene under "Roller og ressurser" fungere og peker til riktig sted
-
-### Teams-sidene:
-- [ ] Sjekk at lenkene til de enkelte teamene fungere og peker til riktig sted
-
-### Produktgrupper
-- [ ] Sjekk at lenkene for den enkelte produktgruppe fungere og peker til riktig sted
-
-### Brukeropplevelse og datadeling (BOD)
-- [ ] Styringsinformasjon: sjekk at lenkene fungere og peker til riktig sted/dokumenter
-- [ ] Onboarding: sjekk at lenkene fungere og peker til riktig sted
-- [ ] Seksjoner: sjekk at lenkene fungere og peker til riktig sted
-- [ ] Verktøy og informasjonskilder: sjekk at lenkene fungere og peker til riktig verktøy/informasjon
-
-### Fellesløsninger (FEL)
-- [ ] Sjekk at lenke fungere og peker til riktig sted
+### Hva skal sjekkes:
+- [ ] Gjennomgå [rutinebeskrivelsen ](https://digdir.sharepoint.com/sites/TeamStyringssystem/_layouts/15/Doc.aspx?sourcedoc={a62fa41d-32a2-464e-a99a-4855757ef094}&action=edit&wd=target%28%C3%85rshjul%20Baksia.one%7C88995312-846b-404e-bb37-89df5e5442e6%2FLenkesjekk%20p%C3%A5%20Baksia%20%28hvor%20vi%20har%20ansvar%5C%29%7Cfb6c8604-1906-4931-98a8-a3833a1ccfb4%2F%29&wdorigin=703) og foreta sjekk ihht til denne

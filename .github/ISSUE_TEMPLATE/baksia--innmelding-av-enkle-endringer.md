@@ -11,7 +11,7 @@ For å kunne utføre endringer (gjelder ikke utviklingsendringer) på Baksia må
 
 ### Hvem ønsker endringen
 - Navn på kontaktperson
-- Team
+- Team/seksjon
 ______________________________________________________________________________________________________________
 
 ### Hva du vil endre
